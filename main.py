@@ -1,4 +1,4 @@
-#ENCODED BY : S9NSK9R SINGH
+#ENCODED BY : ANSH RAJPUT
 #ENCRYPTION : Py3 ZLIB
 #GITHUB : https://github.com/Itzhero12
 #----------------------------------------------
